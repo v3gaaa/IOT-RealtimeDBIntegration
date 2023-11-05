@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "949510113189",
+    "firebase_url": "https://gardensense-cfe37-default-rtdb.firebaseio.com",
+    "project_id": "gardensense-cfe37",
+    "storage_bucket": "gardensense-cfe37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949510113189:android:3ffbf3a494148a9b2c4a4c",
+        "android_client_info": {
+          "package_name": "com.example.garden"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1FWHQJg3CkeM3XtSBHmq2ucr_RbKyumQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
